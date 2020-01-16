@@ -280,3 +280,27 @@ much more.
 [callbacks]: http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html
 [bdd]: http://rspec.info/
 [migrations]: http://edgeguides.rubyonrails.org/active_record_migrations.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
